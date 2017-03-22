@@ -11,6 +11,8 @@
 #
 ###########################################################################################################
 
-from spacinginvaderlib import SpacingInvader
+
+import spacinginvaderlib
+
 
 
