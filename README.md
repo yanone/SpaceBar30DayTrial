@@ -1,4 +1,4 @@
-#Space Bar 30-day Trial
+# Space Bar 30-day Trial
 
 ![Space Bar screenshot](./screenshot.png)
 
